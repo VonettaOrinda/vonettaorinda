@@ -44,6 +44,8 @@ Web Developer
 
 <a href="http://www.github.com/vonettaorinda"><img src="https://activity-graph.herokuapp.com/graph?username=vonettaorinda&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<figure><embed src="https://wakatime.com/share/@Vonetta_Orinda/d595a0ac-0abc-4add-9a18-dea7b32c5624.svg"></embed></figure>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/vonorinda"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
