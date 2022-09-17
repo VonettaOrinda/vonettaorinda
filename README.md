@@ -3,12 +3,12 @@
 Hi 👋 My name is Von
 ====================
 
-Web Developer
+Full stack web developer
 -------------
 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [thevonetteway@gmail.com](mailto:thevonetteway@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning C
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I also create content around fashion,beauty and Lifestyle
 
