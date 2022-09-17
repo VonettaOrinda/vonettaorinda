@@ -3,7 +3,7 @@
 Hi 👋 My name is Von
 ====================
 
-Full stack web developer
+Full-stack Software Engineer 
 -------------
 
 * 🌍  I'm based in Nairobi,Kenya
